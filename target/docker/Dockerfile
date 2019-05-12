@@ -1,3 +1,3 @@
 FROM java:8
-ADD /demo-docker.jar //
-ENTRYPOINT ["java", "-jar", "/demo-docker.jar"]
+ADD /docker-demo.jar //
+ENTRYPOINT ["java", "-jar", "/docker-demo.jar"]
