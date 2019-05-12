@@ -1,4 +1,4 @@
-# springboot-docker-spotify
+# Demo for SpringBoot application with Docker using Spotify
 
 Steps to run the project in Docker
 
